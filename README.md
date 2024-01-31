@@ -3,6 +3,7 @@ A script to automate enlisting in DX AMIS.
 
 ## Dependencies 
 Requires Google Chrome and Python 2.8+
+
 Run `dependencies.py`
 
 ## How to run
